@@ -1,0 +1,26 @@
+.card-container{
+    padding: 24px;
+}
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: black;
+}
+.paragraph{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+.card-image{
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.card-image2{
+    margin: 15px;
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+}
